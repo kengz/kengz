@@ -1,16 +1,15 @@
-### Hi there 👋
+### About Me 👋
 
-<!--
-**kengz/kengz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- Expertise: Industrial ML systems with Python, PyTorch, Kubernetes, Helm :computer:
+- [Personal Blog](https://kengz.gitbook.io/blog/) :fountain_pen:
 
-Here are some ideas to get you started:
+### Current Interests
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- Applied Deep Learning / RL :mechanical_arm:
+- Heideggerian ideas + AI 🤔
+- Language and grounding :dog2:
+
+### Major Projects
+
+- Deep RL Library: [SLM Lab](https://github.com/kengz/SLM-Lab) :microscope:
+- Book: [Foundations of Deep Reinforcement Learning](https://slm-lab.gitbook.io/foundations-of-deep-rl/) ([Amazon link](https://www.amazon.com/dp/0135172381)) :book:
