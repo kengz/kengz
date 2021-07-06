@@ -1,6 +1,6 @@
 ### About Me 👋
 
-- Expertise: Industrial ML systems with Python, PyTorch, Kubernetes, Helm :computer:
+- Expertise: Industrial ML DevOps with Python, PyTorch, Kubernetes, Helm :computer:
 - [Personal Blog](https://kengz.gitbook.io/blog/) :fountain_pen:
 
 ### Current Interests
