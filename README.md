@@ -6,8 +6,7 @@
 ### Current Interests
 
 - Applied Deep Learning / RL :mechanical_arm:
-- Heideggerian ideas + AI 🤔
-- Language and grounding :dog2:
+- Gibsonian (affordances) and Heideggerian (Being) ideas in AI 🤔
 
 ### Major Projects
 
